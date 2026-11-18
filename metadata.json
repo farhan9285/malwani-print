@@ -1,0 +1,6 @@
+{
+  "name": "Malwani Print",
+  "description": "Premium print and design ordering app for Malwani Print with instant pricing, artwork upload, 100% UPI advance checkout, and WhatsApp order confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
